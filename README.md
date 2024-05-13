@@ -1,0 +1,1 @@
+Objective of this project is to create a main index page which will contain links to a few recipes.
